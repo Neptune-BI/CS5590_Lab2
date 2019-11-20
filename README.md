@@ -7,7 +7,7 @@ Please note that the videos were recorded using the screen capture software [fil
 
 [Question_7](https://github.com/vikramabrol/CS5590_Lab2/wiki/Question_7)
 
-[Source_Code,](https://github.com/vikramabrol/CS5590_LAB2/blob/master/Source%20code/Question_7.py)
-[Screenshots,](https://github.com/vikramabrol/CS5590_LAB2/tree/master/Screenshots/Question_7)
+[Source_Code,](https://github.com/vikramabrol/CS5590_Lab2/tree/master/Python%20Code/Question_7.py)
+[Screenshots,](https://github.com/vikramabrol/CS5590_Lab2/tree/master/Screenshots/Question_7)
 [Videos](https://github.com/vikramabrol/CS5590_LAB2/tree/master/Videos)
 ***
