@@ -11,6 +11,9 @@ Please note that the videos were recorded using the screen capture software [fil
 [Screenshots,](https://github.com/vikramabrol/CS5590_Lab2/tree/master/Screenshots/Question_1)
 [Videos](https://github.com/vikramabrol/CS5590_LAB2/tree/master/Videos)
 ***
+
+[Question_2]
+***
 [Question_4](https://github.com/vikramabrol/CS5590_Lab2/wiki/Question_4)
 
 [Source_Code,](https://github.com/vikramabrol/CS5590_Lab2/tree/master/Python%20Code/Question_4.py)
