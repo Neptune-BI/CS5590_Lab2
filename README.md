@@ -3,7 +3,6 @@
 ### All the questions have individual wiki pages of their own, here are the links.
 
 
-Please note that the videos were recorded using the screen capture software [filmora](https://filmora.wondershare.com/screen-recorder/best-open-source-screen-recorders.html)
 
 [Question_1](https://github.com/vikramabrol/CS5590_Lab2/wiki/Question_1)
 
