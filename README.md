@@ -38,4 +38,4 @@
 
 [Source_Code,](https://github.com/vikramabrol/CS5590_Lab2/tree/master/Python%20Code/Question_7.py)
 [Screenshots,](https://github.com/vikramabrol/CS5590_Lab2/tree/master/Screenshots/Question_7)
-[Videos](https://github.com/vikramabrol/CS5590_LAB2/tree/master/Videos)
+[Video](https://youtu.be/O0SKFA1KTIc)
