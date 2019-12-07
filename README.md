@@ -8,7 +8,7 @@
 
 [Source_Code,](https://github.com/vikramabrol/CS5590_Lab2/tree/master/Python%20Code/Question_1.py)
 [Screenshots,](https://github.com/vikramabrol/CS5590_Lab2/tree/master/Screenshots/Question_1)
-[Videos](https://github.com/vikramabrol/CS5590_LAB2/tree/master/Videos)
+[Video](https://youtu.be/gylfnugjMzk)
 ***
 
 [Question_2]
