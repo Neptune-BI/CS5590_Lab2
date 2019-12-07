@@ -46,21 +46,21 @@ print (Ytrain[:10])
 
 #creating network
 model = Sequential()
-model.add(Dense(13, input_dim=13, activation='sigmoid', kernel_initializer='normal'))
-model.add(Dense(13, kernel_initializer='normal', activation='sigmoid'))
+model.add(Dense(13, input_dim=13, activation='relu', kernel_initializer='normal'))
+model.add(Dense(13, kernel_initializer='normal', activation='relu'))
 model.add(Dense(2, activation='softmax'))
 
 #compile model
 epochs = 200
 lrate = 0.001
 adam = Adam(lr= lrate)
-model.compile(loss='categorical_crossentropy', optimizer=adam, metrics=['accuracy'])
+model.compile(loss='categorical_crossentropy', optimizer='sgd', metrics=['accuracy'])
 print(model.summary())
 
 #tensor board
 tb = keras.callbacks.TensorBoard(log_dir=f".\logs\Tensors", histogram_freq=0,write_graph=True, write_images=True)
 
-history=model.fit(x_train, Ytrain, validation_data=(x_test, Ytest),epochs=200, batch_size=10, verbose = 10, callbacks=[tb])
+history=model.fit(x_train, Ytrain, validation_data=(x_test, Ytest),epochs=100, batch_size=5, verbose = 10, callbacks=[tb])
 
 scores = model.evaluate(x_test, Ytest, verbose=0)
 print("Accuracy: %.2f%%" % (scores[1]*100))
