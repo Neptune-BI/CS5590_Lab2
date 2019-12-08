@@ -13,12 +13,13 @@
 
 [Source_Code,](https://github.com/vikramabrol/CS5590_Lab2/tree/master/Python%20Code/Question_2.py)
 [Screenshots,](https://github.com/vikramabrol/CS5590_Lab2/tree/master/Screenshots/Question_2)
-
+[Video](
 ***
 [Question_3](https://github.com/vikramabrol/CS5590_Lab2/wiki/Question_3)
 
 [Source_Code,](https://github.com/vikramabrol/CS5590_Lab2/tree/master/Python%20Code/Question_3.py)
 [Screenshots,](https://github.com/vikramabrol/CS5590_Lab2/tree/master/Screenshots/Question_3)
+[Video](https://www.youtube.com/watch?v=yQ_YIdOuYbU)
 ***
 [Question_4](https://github.com/vikramabrol/CS5590_Lab2/wiki/Question_4)
 
