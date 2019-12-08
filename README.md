@@ -35,9 +35,7 @@
 ***
 [Question_6](https://github.com/vikramabrol/CS5590_Lab2/wiki/Question_6)
 
-[Source_Code,](https://github.com/vikramabrol/CS5590_Lab2/tree/master/Python%20Code/Question_6.py)
-[Screenshots,](https://github.com/vikramabrol/CS5590_Lab2/tree/master/Screenshots/Question_6)
-[Videos](https://github.com/vikramabrol/CS5590_LAB2/tree/master/Videos)
+[Video](https://github.com/vikramabrol/CS5590_LAB2/tree/master/Videos)
 
 ***
 [Question_7](https://github.com/vikramabrol/CS5590_Lab2/wiki/Question_7)
