@@ -13,7 +13,7 @@
 
 [Source_Code,](https://github.com/vikramabrol/CS5590_Lab2/tree/master/Python%20Code/Question_2.py)
 [Screenshots,](https://github.com/vikramabrol/CS5590_Lab2/tree/master/Screenshots/Question_2)
-[Video](
+[Video](https://youtu.be/0FZngXZgIBM)
 ***
 [Question_3](https://github.com/vikramabrol/CS5590_Lab2/wiki/Question_3)
 
