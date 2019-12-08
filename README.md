@@ -35,7 +35,7 @@
 ***
 [Question_6](https://github.com/vikramabrol/CS5590_Lab2/wiki/Question_6)
 
-[Video](https://github.com/vikramabrol/CS5590_LAB2/tree/master/Videos)
+[Video](https://youtu.be/O6i1xB4hMqY)
 
 ***
 [Question_7](https://github.com/vikramabrol/CS5590_Lab2/wiki/Question_7)
